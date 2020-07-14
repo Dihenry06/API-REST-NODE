@@ -1,0 +1,8 @@
+POST http://localhost:3333/api/products
+Content-Type: application/json
+
+{
+    "title" : "teste 2",
+    "description" : "teste description 2",
+    "url" : "teste url 2"
+}
